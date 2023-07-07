@@ -11,3 +11,6 @@ Olá! Sou a Juliana Oliveira, uma entusiasta de programação, amante de livros 
 ![LINUX](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+## Social 💻
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-oliveira-977b61166/)
