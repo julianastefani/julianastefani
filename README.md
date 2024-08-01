@@ -1,7 +1,9 @@
 ## Sobre mim 👩‍💻
 
  
-Olá! Sou a Juliana Oliveira, uma entusiasta de programação, amante de livros e jogos. Minha paixão pela tecnologia me inspirou a buscar uma transição de carreira profissional. Atualmente, estou me dedicando aos estudos de programação, buscando aprimorar minhas habilidades nessa área em constante evolução. Tenho um forte desejo de contribuir para projetos inovadores e desafiadores, onde possa aplicar meu conhecimento e criatividade. Estou animada para embarcar nessa jornada e fazer parte do mundo da tecnologia de forma ativa e apaixonada.
+Olá! Sou Juliana Oliveira, uma entusiasta de programação, amante de livros e jogos. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, dedicando-me a aprimorar minhas habilidades e conhecimentos nessa área dinâmica e em constante evolução. Minha paixão pela tecnologia me inspirou a seguir essa carreira, e estou entusiasmada para aplicar minha criatividade e aprendizado em projetos inovadores e desafiadores. Estou animada para fazer parte do mundo da tecnologia e contribuir de forma ativa e apaixonada para o desenvolvimento de soluções eficazes.
+
+
 
 ## Skills 📚
 
